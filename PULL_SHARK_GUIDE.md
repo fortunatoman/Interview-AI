@@ -94,4 +94,13 @@ Because this is your own repo, you can merge your own PRs:
 1. **Same repo**: You can earn the badge by merging PRs into your own repository.
 2. **Must merge**: Only merged PRs count, not open or closed-without-merge PRs.
 3. **One per PR**: Each merged PR counts once.
-4. **Track progress**: Check https://github.com/fortunatoman?achievement=pull-shark
+4. **Public repo**: The repository must be **public** for achievements to appear on your profile.
+5. **Merge method**: Use **"Create a merge commit"** when merging (not Squash). Some users report squash/rebase merges may not count.
+6. **Track progress**: Check https://github.com/fortunatoman?achievement=pull-shark
+
+## Troubleshooting: Badge Not Showing?
+
+- **Need 2 merged PRs** for the Default tier—having only 1 merged PR won't show the badge.
+- **Check repo visibility**: Settings → General → Danger Zone → Change repository visibility to **Public**.
+- **Use merge commit**: When merging, choose the dropdown next to "Merge pull request" → **Create a merge commit**.
+- **Wait a few minutes**: Badges can take a short time to update after merging.

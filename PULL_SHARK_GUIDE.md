@@ -117,3 +117,7 @@ Because this is your own repo, you can merge your own PRs:
 4. Confirm the merge
 
 Merging with no reviewer assigned does **not** count. The reviewer must be requested but you merge before they complete their review.
+
+## Related: Quickdraw Badge
+
+**Quickdraw** is earned by closing an issue or pull request **within 5 minutes** of opening it. Create a PR and merge it within 5 minutes, or open an issue and close it within 5 minutes.

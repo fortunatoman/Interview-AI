@@ -107,4 +107,13 @@ Because this is your own repo, you can merge your own PRs:
 
 ## Related: YOLO Badge
 
-**YOLO** is earned by merging a pull request *without* code review. In a solo repo, merging your own PR (without adding reviewers) qualifies. Merge this PR without review to earn it.
+**YOLO** is earned by merging a pull request *without* reviewer approval. Important: you must **assign a reviewer** first, then **merge before they approve**.
+
+### Steps to earn YOLO
+
+1. Open your PR on GitHub
+2. In the right sidebar, under **Reviewers**, click and add a reviewer (use a second GitHub account you control, or a collaborator)
+3. **Immediately** click **Merge pull request**—do not wait for approval
+4. Confirm the merge
+
+Merging with no reviewer assigned does **not** count. The reviewer must be requested but you merge before they complete their review.

@@ -8,7 +8,7 @@ The AI provider is controlled by the `AIProvider` setting in `appsettings.json`:
 
 ```json
 {
-  "AIProvider": "OpenAI"  // or "Gemini" or "DeepSeek"
+  "AIProvider": "OpenAI"  // or "Gemini"
 }
 ```
 
@@ -34,36 +34,24 @@ The AI provider is controlled by the `AIProvider` setting in `appsettings.json`:
   - Interview evaluation with scoring
   - Multi-language support
 
-### 3. DeepSeek
-- **Configuration**: `"AIProvider": "DeepSeek"`
-- **API Key**: Configured in `appsettings.json` under `DeepSeek:ApiKey`
-- **Model**: deepseek-chat
-- **Features**: 
-  - Expert technical interviewing
-  - Question generation
-  - Interview evaluation with scoring
-  - Multi-language support
-
 ## How to Switch
 
 1. **To use OpenAI**: Set `"AIProvider": "OpenAI"` in `appsettings.json`
 2. **To use Gemini**: Set `"AIProvider": "Gemini"` in `appsettings.json`
-3. **To use DeepSeek**: Set `"AIProvider": "DeepSeek"` in `appsettings.json`
-4. **Restart the application** after changing the configuration
+3. **Restart the application** after changing the configuration
 
 ## Fallback Behavior
 
 - If no `AIProvider` is specified, the application defaults to Gemini
 - If the specified provider fails, the application will continue with error handling
-- All providers implement the same interface, so switching is seamless
+- Both providers implement the same interface, so switching is seamless
 
 ## API Keys
 
 Make sure you have valid API keys configured for the provider you want to use:
 
 - **OpenAI**: Get your API key from https://platform.openai.com/
-- **Gemini**: Get your API key from https://makersuite.google.com/app/apikey
-- **DeepSeek**: Get your API key from https://platform.deepseek.com/
+- **Gemini**: Get your API key from https://aistudio.google.com/app/apikey
 
 ## Testing
 

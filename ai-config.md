@@ -62,7 +62,7 @@ The AI provider is controlled by the `AIProvider` setting in `appsettings.json`:
 Make sure you have valid API keys configured for the provider you want to use:
 
 - **OpenAI**: Get your API key from https://platform.openai.com/
-- **Gemini**: Get your API key from https://makersuite.google.com/app/apikey
+- **Gemini**: Get your API key from https://aistudio.google.com/app/apikey
 - **DeepSeek**: Get your API key from https://platform.deepseek.com/
 
 ## Testing

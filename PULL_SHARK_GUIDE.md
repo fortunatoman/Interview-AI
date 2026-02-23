@@ -121,3 +121,26 @@ Merging with no reviewer assigned does **not** count. The reviewer must be reque
 ## Related: Quickdraw Badge
 
 **Quickdraw** is earned by closing an issue or pull request **within 5 minutes** of opening it. Create a PR and merge it within 5 minutes, or open an issue and close it within 5 minutes.
+
+## Related: Starstruck Badge
+
+**Starstruck** is earned when a repository you created gets many stars. Tiers: Default 16, Bronze 128, Silver 512, Gold 4096. You cannot star your own repo—others must star it. Tips: add a clear README, set a good repo description on GitHub (Settings → General), share the repo with others, and promote it in communities.
+
+## Related: Galaxy Brain Badge
+
+**Galaxy Brain** is earned by answering discussions and getting your answer **accepted** as the solution. Tiers: Default 2, Bronze 8, Silver 16, Gold 32.
+
+**Important:** You must answer discussions in **other people's repositories**—answers in your own repo do **not** count.
+
+### Steps to earn Galaxy Brain
+
+1. **Find repos with Discussions enabled** — Look for repos you know well (e.g. .NET, libraries, frameworks you use)
+2. **Browse the Discussions tab** — Go to a repo → Discussions → find questions you can answer
+3. **Write a helpful answer** — Provide a clear, accurate solution
+4. **Get accepted** — The discussion author (or maintainer) must mark your answer as the accepted solution
+
+### Where to find discussions
+
+- Projects you contribute to or use: `https://github.com/{owner}/{repo}/discussions`
+- Popular .NET repos: dotnet/runtime, aspnet/AspNetCore, etc.
+- Libraries in your stack: Npgsql, DinkToPdf, Entity Framework, etc.

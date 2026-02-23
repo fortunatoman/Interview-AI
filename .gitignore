@@ -1,0 +1,70 @@
+# --- OS / Editor ---
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.tmp
+
+# VS Code / JetBrains
+.vscode/
+.idea/
+*.sln.iml
+_ReSharper.Caches/
+
+# --- .NET / Visual Studio ---
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+*.csproj.user
+
+# NuGet
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nupkg
+
+# Logs & diagnostics
+logs/
+*.log
+TestResult*/
+TestResults/
+*.coverage
+*.coveragexml
+.coverage
+coverage/
+
+# Publish / build outputs
+publish/
+dist/
+
+# --- ASP.NET Core / Frontend assets ---
+appsettings.Development.json
+appsettings.json
+appsettings.*.Local.json
+appsettings.*.Secrets.json
+
+# Environment files
+.env
+.env.*.local
+
+# Certificates / sensitive
+*.pfx
+
+# --- Databases (local) ---
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+
+# Rider / solution caches
+*.DotSettings.user
+
+# Crash dumps
+*.dmp
+*.mdmp
+*.core

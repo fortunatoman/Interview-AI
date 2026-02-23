@@ -121,3 +121,7 @@ Merging with no reviewer assigned does **not** count. The reviewer must be reque
 ## Related: Quickdraw Badge
 
 **Quickdraw** is earned by closing an issue or pull request **within 5 minutes** of opening it. Create a PR and merge it within 5 minutes, or open an issue and close it within 5 minutes.
+
+## Related: Starstruck Badge
+
+**Starstruck** is earned when a repository you created gets many stars. Tiers: Default 16, Bronze 128, Silver 512, Gold 4096. You cannot star your own repo—others must star it. Tips: add a clear README, set a good repo description on GitHub (Settings → General), share the repo with others, and promote it in communities.

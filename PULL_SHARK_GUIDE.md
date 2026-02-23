@@ -104,3 +104,7 @@ Because this is your own repo, you can merge your own PRs:
 - **Check repo visibility**: Settings → General → Danger Zone → Change repository visibility to **Public**.
 - **Use merge commit**: When merging, choose the dropdown next to "Merge pull request" → **Create a merge commit**.
 - **Wait a few minutes**: Badges can take a short time to update after merging.
+
+## Related: YOLO Badge
+
+**YOLO** is earned by merging a pull request *without* code review. In a solo repo, merging your own PR (without adding reviewers) qualifies. Merge this PR without review to earn it.

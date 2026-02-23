@@ -1,6 +1,6 @@
 # How to Earn the Pull Shark Badge (Step-by-Step)
 
-**Pull Shark** is a GitHub achievement for opening pull requests that get merged. Use this guide with the Interview-Bot project.
+**Pull Shark** is a GitHub achievement for opening pull requests that get merged. Use this guide with the Interview-Bot project to earn badges.
 
 ## Badge Tiers
 
